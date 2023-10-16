@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adwait18-cpu/Adwait18-cpu/output/snake.svg" alt="Snake animation" />
+
 
 ###
